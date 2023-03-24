@@ -1,0 +1,22 @@
+{
+  "name": "chiemerie-package",
+  "version": "1.0.0",
+  "description": "says hello stellas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chiemerie386/chiemerie-package.git"
+  },
+  "keywords": [
+    "chiemerie"
+  ],
+  "author": "chiemerie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chiemerie386/chiemerie-package/issues"
+  },
+  "homepage": "https://github.com/chiemerie386/chiemerie-package#readme"
+}
